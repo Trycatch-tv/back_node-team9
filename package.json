@@ -4,8 +4,7 @@
   "description": "Descripción de tu proyecto",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "postinstall": "npm install"
+    "start": "node server.js"
   },
   "dependencies": {
     "body-parser": "^1.20.2",
